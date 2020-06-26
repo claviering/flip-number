@@ -6,6 +6,10 @@
 
 [codepen](https://codepen.io/claviering/pen/MWKoXMx)
 
+[Github](https://github.com/claviering/flip-number)
+
+[npm](https://www.npmjs.com/package/flip-number-9-squares)
+
 ## Usage
 
 ```html
