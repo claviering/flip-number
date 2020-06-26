@@ -1,4 +1,4 @@
-# 原生 js 实现 FLIP 效果实现
+# 原生 js 实现 9宫格 FLIP 效果
 
 Demo
 
